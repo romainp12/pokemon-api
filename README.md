@@ -1,4 +1,4 @@
-# API Pokémon - Projet TypeScript
+# API Pokémon
 
 API REST avec Express TS et PostgreSQL.
 
@@ -44,7 +44,7 @@ psql -d pokemon -f test.sql
 - **Routes** : Endpoints de l'API
 - **Database** : Configuration PostgreSQL
 
-## Endpoints principaux
+## Endpoints
 
 ### Pokémon
 - `POST /api/pokemons` - Créer un Pokémon
